@@ -1,6 +1,6 @@
 ---
 title:  "블로그 시작했습니다"
-excerpt: ""
+excerpt: "어쨌든 시작했습니다."
 
 categories:
   - Blog
@@ -19,3 +19,6 @@ last_modified_at: 2020-06-07
 잘 부탁드립니다.
 
 ![~제리인사](https://lh3.googleusercontent.com/proxy/HMJn2V8ysb91mrEyhqeNKMc8gohCqgUqNKmfs3kbj-JTN7ZluVRU47yJ16xSnuSa_6cas_3FMYXarPOBYGYBy4Jx79klEyYfEolR-Lx9XpMITjGafcKlO6dVLVcZRC6qNFtbufjtMrcDRKJFAocLFwzFQ2vN){: width="20%", height="20%"}
+
+🌝 **<u>알림</u>** 포스트 만드는 법이 먼저 올라간 이유는 제 실수입니다. 죄송합니다.
+{: .notice--primary}
