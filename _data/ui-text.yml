@@ -601,7 +601,7 @@ ko: &DEFAULT_KO
   page                       : "페이지"
   pagination_previous        : "이전"
   pagination_next            : "다음"
-  breadcrumb_home_label      : "Home"
+  breadcrumb_home_label      : "Index"
   breadcrumb_separator       : "/"
   menu_label                 : "토글 메뉴"
   search_label               :
@@ -614,7 +614,7 @@ ko: &DEFAULT_KO
   tags_label                 : "태그:"
   categories_label           : "카테고리:"
   date_label                 : "업데이트:"
-  comments_label             : "댓글남기기"
+  comments_label             : "댓글 남기기"
   comments_title             : "댓글"
   more_label                 : "더 보기"
   related_label              : "참고"

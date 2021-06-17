@@ -12,6 +12,10 @@
 Gemfile.lock
 **/vendor/bundle
 
+#Post Upload Schedule
+
+/_posts/2021-06-07-first-page.md
+
 # Node.js and NPM
 node_modules
 npm-debug.log*
